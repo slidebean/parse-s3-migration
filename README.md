@@ -1,4 +1,7 @@
 # parse-s3-migration
+
+[![](https://img.shields.io/badge/-git--secrets-blue?logo=amazon-aws)](#)
+
 Migrate files from Parse to your own S3. This node app does the following:
 
 1. Connects directly to your MongoDB instance.
